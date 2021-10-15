@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">project73</string>
+    <string name="david_friedman">David Friedman</string>
+    <string name="username">User Name</string>
+    <string name="notification">Notification</string>
+    <string name="video_call">Video Call</string>
+    <string name="voice_call">Voice Call</string>
+    <string name="name">Name</string>
+    <string name="to_get_unlimited_nupgrade_your_account">To Get Unlimited\nUpgrade Your Account</string>
+    <string name="inbox">Inbox</string>
+    <string name="map">Map</string>
+    <string name="hello">Hello</string>
+    <string name="chat">Chat</string>
+    <string name="report">Report</string>
+    <string name="calendar">Calendar</string>
+    <string name="tips">Tips</string>
+    <string name="settings">Settings</string>
+    <string name="other">Other</string>
+</resources>
